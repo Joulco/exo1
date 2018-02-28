@@ -1,5 +1,7 @@
 body {
 	background: grey;
+	text-align: center;
+	width: 80%;
 }
 h1{
 	font-size: 2rem;
@@ -12,4 +14,5 @@ h2{
 
 content{
 	color:pink;
+	width: 80%;
 }
